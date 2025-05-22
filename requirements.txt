@@ -1,0 +1,13 @@
+pymc
+numpy
+pandas
+matplotlib
+seaborn
+arviz
+openpyxl
+statsmodels
+plotly
+nbformat
+ipywidgets
+dash 
+ 
